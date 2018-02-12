@@ -1,5 +1,7 @@
 # Weather Graphs
-Build your own beautiful weather web-based graphs from a pulled data out in csv format. 
+Build your own beautiful weather web-based graphs from a pulled data out in csv format.
+
+ *No JavaScript required.*
 
 ![dtsywyvk1o](https://user-images.githubusercontent.com/32354154/36121881-9ed00a34-1058-11e8-9688-633156692c15.gif)
 
