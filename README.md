@@ -11,7 +11,9 @@ Build your own beautiful weather web-based graphs from a pulled data out in csv 
 ## What inside
 
 * [weather_parser.py](https://github.com/kissChriss/weather_graph/blob/master/weather_parser.py) 
-     - is the bs4 script for pulling data out of the [weather source](https://www.gismeteo.ru/weather-sankt-peterburg-4079/)
+
+It is the bs4 script for pulling data out of the [weather source](https://www.gismeteo.ru/weather-sankt-peterburg-4079/). 
+Here - building URLs, analyzing data and creating csv-files with weather marks.
 
 * [Months](https://github.com/kissChriss/weather_graph/tree/master/Months) 
      - the folder for data from [weather_parser.py](https://github.com/kissChriss/weather_graph/blob/master/weather_parser.py) 
