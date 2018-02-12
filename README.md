@@ -8,7 +8,7 @@ Build your own beautiful weather web-based graphs from a pulled data out in csv 
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - The Python library for pulling data out of HTML files.
 * [Dash](https://plot.ly/products/dash/) - The Python framework for building analytical web applications.
 
-## What inside
+## What's inside
 
 * [weather_parser.py](https://github.com/kissChriss/weather_graph/blob/master/weather_parser.py) 
 
@@ -21,7 +21,9 @@ The folder for data from [weather_parser.py](https://github.com/kissChriss/weath
 Twelve csv months files with weather marks.
 
 * [app.py](https://github.com/kissChriss/weather_graph/blob/master/app.py) 
-    - is the Dash application for creating web-page with a graph
+
+The main part of this project - Dash application for creating web-page with a graph. This awesome framework helps to make interactive web-application without any JavaScript code line. Dash creates all HTML structure by its own, so you can concentrate only on the app work and logic.
  
 * [new.py](https://github.com/kissChriss/weather_graph/blob/master/new.csv)  
-  - the temporary file which help for creating graphs
+
+The temporary file which help for creating graphs.
