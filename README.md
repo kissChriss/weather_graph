@@ -16,8 +16,9 @@ It is the bs4 script for pulling data out of the [weather source](https://www.gi
 Here - building URLs, analyzing data and creating csv-files with weather marks.
 
 * [Months](https://github.com/kissChriss/weather_graph/tree/master/Months) 
-     - the folder for data from [weather_parser.py](https://github.com/kissChriss/weather_graph/blob/master/weather_parser.py) 
 
+The folder for data from [weather_parser.py](https://github.com/kissChriss/weather_graph/blob/master/weather_parser.py) 
+Twelve csv months files with weather marks.
 
 * [app.py](https://github.com/kissChriss/weather_graph/blob/master/app.py) 
     - is the Dash application for creating web-page with a graph
