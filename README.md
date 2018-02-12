@@ -24,6 +24,6 @@ Twelve csv months files with weather marks.
 
 The main part of this project - Dash application for creating web-page with a graph. This awesome framework helps to make interactive web-application without any JavaScript code line. Dash creates all HTML structure by its own, so you can concentrate only on the app work and logic.
  
-* [new.py](https://github.com/kissChriss/weather_graph/blob/master/new.csv)  
+* [new.csv](https://github.com/kissChriss/weather_graph/blob/master/new.csv)  
 
 The temporary file which helps for creating graphs.
