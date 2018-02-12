@@ -1,0 +1,10 @@
+html {
+  font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  height: 100%;
+  position: relative;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}

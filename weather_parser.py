@@ -8,7 +8,7 @@ def get_url():
     month_part = '/03/'
     year_part = ''
     urls = []
-    for i in range(2000, 2018):
+    for i in range(2000, 2017):
         year_part = str(i)
         url = BASE_URL + year_part + month_part
         urls.append(url)
@@ -42,7 +42,7 @@ def finder(day):
 def main():
     with open('march.csv', 'w', encoding='utf-8', newline='') as file:
         writer = csv.writer(file)
-        writer.writerow(range(2000, 2018))
+        writer.writerow(range(2000, 2017))
         try:
             for day in range(32):
                 writer.writerows([finder(day)])
