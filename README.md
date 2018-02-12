@@ -26,4 +26,4 @@ The main part of this project - Dash application for creating web-page with a gr
  
 * [new.py](https://github.com/kissChriss/weather_graph/blob/master/new.csv)  
 
-The temporary file which help for creating graphs.
+The temporary file which helps for creating graphs.
